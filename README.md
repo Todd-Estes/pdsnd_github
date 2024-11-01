@@ -21,7 +21,7 @@ This Python/Pandas application analyzes bike share data from three major US citi
 2. Start the app:
 
    1. Open your terminal/command prompt
-   2. Navigate to the directory containing the script and data files
+   2. Navigate to the EmployeePolls directory
    3. Run the program by typing: python bikeshare.py
    
 ## Using the App
