@@ -190,6 +190,10 @@ def prompt_raw_data(df):
 
 
 def main():
+    """
+    Main program loop that coordinates data loading, analysis, and user interaction. Prompts users to select a city and 
+    time filters, then displays various statistical breakdowns of the bikeshare data.
+    """
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
