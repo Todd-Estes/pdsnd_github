@@ -1,3 +1,8 @@
+"""
+An interactive data exploration tool for analyzing US bikeshare data across Chicago, New York City, and Washington DC.
+Allows filtering by month and day of week to analyze ride patterns, station popularity, and user demographics.
+"""
+
 import time
 import pandas as pd
 from collections import Counter
